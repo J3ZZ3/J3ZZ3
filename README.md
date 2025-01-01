@@ -75,11 +75,6 @@ A React Native app for recording and managing voice notes.
 
 ---
 
-## 📫 Connect With Me
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-
---- 
-
 ### 📫 How to reach me  
 - **Email:** jesse.mashoana@gmail.com
 
