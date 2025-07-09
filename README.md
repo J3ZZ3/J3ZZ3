@@ -27,18 +27,13 @@ I recently completed the CodeTribe Academy program, where I honed my skills thro
 
 ## 📊 Skills Overview
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js_&_Express-80%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js & Express Skill Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase_/_Supabase-80%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase / Supabase Skill Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git_&_GitHub-95%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub Skill Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/API_Integration_&_Testing-80%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration & Testing Skill Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/UI_Design_Principles-70%25-1572B6?style=for-the-badge&logo=krita&logoColor=white" alt="UI Design Principles Skill Badge"/>
+<p align="center">
+  <img src="assets/skill_bar_js.svg" alt="JavaScript Skill Bar" />
+  <img src="assets/skill_bar_nodejs.svg" alt="Node.js & Express Skill Bar" />
+  <img src="assets/skill_bar_firebase_supabase.svg" alt="Firebase/Supabase Skill Bar" />
+  <img src="assets/skill_bar_git_github.svg" alt="Git & GitHub Skill Bar" />
+  <img src="assets/skill_bar_api_testing.svg" alt="API Integration & Testing Skill Bar" />
+  <img src="assets/skill_bar_ui_design.svg" alt="UI Design Principles Skill Bar" />
 </p>
 
 ---
