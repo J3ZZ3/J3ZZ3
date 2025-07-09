@@ -1,9 +1,17 @@
-# 👋 Hello! I'm Jesse Mashoana
+# 👋 <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hello!+I'm+Jesse+Mashoana" alt="Typing SVG for Hello! I'm Jesse Mashoana" />
 
 Welcome to my GitHub profile! I'm a **Junior Developer** passionate about creating real-world solutions using full-stack tools. I focus on building clean, functional apps with modern backend integration and authentication systems.
 
 🎓 **Graduate of CodeTribe Academy (powered by mLab)**  
 I recently completed the CodeTribe Academy program, where I honed my skills through team-based, project-driven learning.
+
+---
+
+## 📊 My Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J3ZZ3&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&hide_border=true&theme=github_dark" alt="Jesse Mashoana's GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -28,14 +36,19 @@ I recently completed the CodeTribe Academy program, where I honed my skills thro
 
 ## 📊 Skills Overview
 
-| Skill                      | Proficiency |
-|---------------------------|-------------|
-| JavaScript (ES6+)         | ██████████░░ 90% |
-| Node.js & Express         | █████████░░░ 80% |
-| Firebase / Supabase       | █████████░░░ 80% |
-| Git & GitHub              | ███████████░ 95% |
-| API Integration & Testing | █████████░░░ 80% |
-| UI Design Principles      | ████████░░░░ 70% |
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js_&_Express-80%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js & Express Skill Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Firebase_/_Supabase-80%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase / Supabase Skill Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git_&_GitHub-95%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub Skill Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/API_Integration_&_Testing-80%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration & Testing Skill Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/UI_Design_Principles-70%25-1572B6?style=for-the-badge&logo=krita&logoColor=white" alt="UI Design Principles Skill Badge"/>
+</p>
 
 ---
 
@@ -92,6 +105,10 @@ Voice note app with offline support and CRUD functionality.
 ## ⚡ Fun Fact
 
 Outside of coding, I'm a huge fan of anime, strategy games 🎮, YouTube tech content, and exploring new frameworks/tools.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M5bnpkZ3Q0azM4cnN6Zjc0N2ZicmcxNnN0NnNwdGozemY1bnp6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o5HK9pcgvn3Hi/giphy.gif" width="200" alt="Anime and Gaming Fun Fact GIF" />
+</p>
 
 ---
 
